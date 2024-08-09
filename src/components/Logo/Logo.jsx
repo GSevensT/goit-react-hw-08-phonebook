@@ -6,7 +6,7 @@ export const PhonebookLogo = () => {
   return (
     <Container>
       <FaFacebookF />
-      one <FaBookReader /> Book
+      hone <FaBookReader /> Book
     </Container>
   );
 };

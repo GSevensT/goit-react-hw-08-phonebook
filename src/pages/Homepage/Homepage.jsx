@@ -49,7 +49,7 @@ const Homepage = () => {
           <CopyrightText>
             Copyright
             <FaRegCopyright size={16} />
-            2023 <br /> All rights reserved
+            2024 <br /> All rights reserved
           </CopyrightText>
         </Copyright>
       </Footer>
